@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Interview_Assignment_Task\bin\Debug\net6.0\Interview_Assignment_Task.exe
+C:\Users\HP\source\repos\Interview_Assignment_Task\bin\Debug\net6.0\Interview_Assignment_Task.deps.json
+C:\Users\HP\source\repos\Interview_Assignment_Task\bin\Debug\net6.0\Interview_Assignment_Task.runtimeconfig.json
+C:\Users\HP\source\repos\Interview_Assignment_Task\bin\Debug\net6.0\Interview_Assignment_Task.dll
+C:\Users\HP\source\repos\Interview_Assignment_Task\bin\Debug\net6.0\Interview_Assignment_Task.pdb
+C:\Users\HP\source\repos\Interview_Assignment_Task\obj\Debug\net6.0\Interview_Assignment_Task.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Interview_Assignment_Task\obj\Debug\net6.0\Interview_Assignment_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Interview_Assignment_Task\obj\Debug\net6.0\Interview_Assignment_Task.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Interview_Assignment_Task\obj\Debug\net6.0\Interview_Assignment_Task.AssemblyInfo.cs
+C:\Users\HP\source\repos\Interview_Assignment_Task\obj\Debug\net6.0\Interview_Assignment_Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Interview_Assignment_Task\obj\Debug\net6.0\Interview_Assignment_Task.dll
+C:\Users\HP\source\repos\Interview_Assignment_Task\obj\Debug\net6.0\refint\Interview_Assignment_Task.dll
+C:\Users\HP\source\repos\Interview_Assignment_Task\obj\Debug\net6.0\Interview_Assignment_Task.pdb
+C:\Users\HP\source\repos\Interview_Assignment_Task\obj\Debug\net6.0\Interview_Assignment_Task.genruntimeconfig.cache
+C:\Users\HP\source\repos\Interview_Assignment_Task\obj\Debug\net6.0\ref\Interview_Assignment_Task.dll
